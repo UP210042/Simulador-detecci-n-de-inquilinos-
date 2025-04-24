@@ -32,3 +32,8 @@ pantalla.
 ✔ Tarjeta microSD con el software preinstalado.
 
 ✔ Base estable para la Raspberry y soporte para la cámara.
+
+
+Usuario y contraseña para acceder desde RealVNC:
+usuario: pi
+contraseña: raspberry
